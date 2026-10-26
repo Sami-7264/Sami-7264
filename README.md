@@ -54,4 +54,8 @@ Private projects, described at the architecture level.
 
 ### Contact
 
-Open to AI engineering roles and freelance projects. Contact details are in my GitHub profile sidebar.
+Open to AI engineering roles and freelance projects.
+
+- **Email**: [samibutt8011@gmail.com](mailto:samibutt8011@gmail.com)
+- **LinkedIn**: [linkedin.com/in/samiullahbutt](https://linkedin.com/in/samiullahbutt)
+- **Phone / WhatsApp**: [+92 309 4647983](https://wa.me/923094647983)
